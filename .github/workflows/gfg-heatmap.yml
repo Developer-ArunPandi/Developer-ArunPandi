@@ -1,0 +1,40 @@
+name: GFG Activity Heatmap
+
+on:
+  schedule:
+    - cron: "30 18 * * *"   # ~midnight IST daily
+  workflow_dispatch:          # allows manual run
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch stats & render heatmap
+        env:
+          GFG_USERNAME: developeuw2s
+        run: python scripts/gfg_heatmap.py
+
+      - name: Commit updated data + heatmap
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/gfg-activity.json dist/gfg-heatmap.svg
+          git diff --quiet --cached || git commit -m "chore: update GFG activity heatmap"
+          git push
