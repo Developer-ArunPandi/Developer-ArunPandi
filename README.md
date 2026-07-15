@@ -52,6 +52,26 @@
 
 ---
 
+### 💻 Competitive Programming
+
+<div align="center">
+
+<a href="https://leetcode.com/u/b6EaYMAYDn/"><img src="https://leetcard.jacoblin.cool/b6EaYMAYDn?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/></a>
+
+<br/>
+
+<a href="https://www.geeksforgeeks.org/profile/developeuw2s"><img src="https://gfgstatscard.vercel.app/developeuw2s?theme=dark" alt="GeeksforGeeks Stats"/></a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Developer-ArunPandi/Developer-ArunPandi/main/dist/gfg-heatmap.svg" alt="GeeksforGeeks Activity Heatmap"/>
+
+<sub>🌱 Heatmap builds up day by day starting from setup — GFG doesn't publish historical daily data, so this tracks fresh activity going forward.</sub>
+
+</div>
+
+---
+
 ### 🐍 Contribution Snake
 
 <div align="center">
