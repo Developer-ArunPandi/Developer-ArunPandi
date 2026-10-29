@@ -29,20 +29,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Developer-ArunPandi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=B829F7&icon_color=00F5FF&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-ArunPandi&theme=radical&hide_border=true&background=0D1117&ring=B829F7&fire=00F5FF&currStreakLabel=00F5FF" width="49%"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-ArunPandi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=B829F7&text_color=c9d1d9" width="55%"/>
-</div>
-
----
 
 ### 💻 Competitive Programming
 
@@ -51,7 +37,6 @@
 <a href="https://leetcode.com/u/b6EaYMAYDn/"><img src="https://leetcard.jacoblin.cool/b6EaYMAYDn?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/></a>
 
 <br/>
----
 
 ### 🐍 Contribution Snake
 
@@ -59,7 +44,7 @@
 <img src="https://raw.githubusercontent.com/Developer-ArunPandi/Developer-ArunPandi/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
-> ⚙️ Snake animation setup instructions are in `snake-animation-setup.md` (one-time GitHub Action setup needed).
+>
 
 ---
 
