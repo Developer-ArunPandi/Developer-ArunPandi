@@ -2,7 +2,7 @@
 
 <!-- ═══════════════════════════════ HERO BANNER ═══════════════════════════════ -->
 
- <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8E2DE2,50:4A00E0,100:00F5FF&amp;height=240&amp;section=header&amp;text=Hi%20There!%20I'm%20Arun%20Pandi%20Baskaran%20%F0%9F%91%8B&amp;fontSize=36&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Frontend%20%26%20MERN%20Stack%20Developer&amp;descSize=18&amp;descColor=E0E0E0&amp;descAlignY=55" width="100%" alt="Hi, I'm Arun Pandi Baskaran – Frontend and MERN Stack Developer" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8E2DE2,50:4A00E0,100:00F5FF&amp;height=240&amp;section=header&amp;text=Hi%20There!%20I'm%20Arun%20Pandi%20Baskaran%20%F0%9F%91%8B&amp;fontSize=36&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Frontend%20and%20MERN%20Stack%20Developer&amp;descSize=18&amp;descColor=E0E0E0&amp;descAlignY=55" width="100%" alt="Hi, I'm Arun Pandi Baskaran – Frontend and MERN Stack Developer" />
 
 <!-- ═══════════════════════════════ TYPING SVG ═══════════════════════════════ -->
 
