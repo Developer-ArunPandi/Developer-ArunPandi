@@ -13,7 +13,7 @@
 <!-- ═══════════════════════════════ PROFILE VIEWS + SOCIAL ═══════════════════════════════ -->
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Developer-ArunPandi&color=00D4FF&style=flat-square&label=Profile+Views)](https://github.com/Developer-ArunPandi)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-pandi-b-62a656335)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunpandi-baskaran)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:developerarun01@gmail.com)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Developer-ArunPandi)&nbsp;&nbsp;
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@developerarun01)
